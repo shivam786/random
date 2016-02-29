@@ -165,7 +165,6 @@ int findMaxProfit(Job arr[], int n)
 
     return result;
 }
-
 float power(float x, int y)
 {
     float temp;
